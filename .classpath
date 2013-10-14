@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="libs/aws-android-sdk-1.4.4-debug.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-cloudwatch.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-core.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-ddb-mapper-debug.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-ddb-mapper.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-ddb.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-debug.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-ec2.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-elb.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-s3.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-sdb.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-ses.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-sns.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-sqs.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4-sts.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/lib/aws-android-sdk-1.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/malathidharmalingam/Downloads/aws-android-sdk-1.4.4/samples/S3_Uploader/libs/aws-android-sdk-1.4.4-debug.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
